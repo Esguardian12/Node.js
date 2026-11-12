@@ -1,0 +1,22 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "This will be the repository for all of my node.js side projects. So I can get better using it. Just trying to keep things organized.",
+  "main": "fs_test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Esguardian12/Node.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Esguardian12/Node.js/issues"
+  },
+  "homepage": "https://github.com/Esguardian12/Node.js#readme"
+}

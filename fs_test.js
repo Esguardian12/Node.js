@@ -9,7 +9,7 @@ async function handleFiles() {
 
         // B. READING A FILE
         // Arguments: (filePath, encoding) - always specify 'utf8' to read text, otherwise you got a raw Buffer project.
-        const fileContents = await fs.readFile('.log.txt', 'utf8');
+        const fileContents = await fs.readFile('./log.txt', 'utf8');
         console.log('File Contents Read:', fileContents);
 
     } catch (error) {
